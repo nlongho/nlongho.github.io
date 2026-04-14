@@ -3,9 +3,8 @@ description: "QA Engineer • Automation • Testing Strategy"
 baseurl: ""
 url: "https://nlongho.github.io"
 
-theme: minima
+remote_theme: jekyll/minima
 
-markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
