@@ -3,14 +3,16 @@ description: "QA Engineer • Automation • Testing Strategy"
 baseurl: ""
 url: "https://nlongho.github.io"
 
-theme: minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
 minima:
   skin: classic
 
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 author:
   name: "Ho Nguyen"
