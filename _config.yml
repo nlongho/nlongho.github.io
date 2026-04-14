@@ -1,0 +1,17 @@
+title: "Ho Nguyen"
+description: "QA Engineer • Automation • Testing Strategy"
+baseurl: ""
+url: "https://nlongho.github.io"
+
+theme: minima
+minima:
+  skin: classic
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "Ho Nguyen"
+  email: "your-email@example.com"
